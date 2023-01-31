@@ -1,0 +1,36 @@
+{
+  "includeFiles":[
+  ],
+  "metadata":{
+    "customPrefsImportMode":"reject",
+    "dm":{
+    },
+    "fileVersion":3,
+    "rt":{
+      "processors":[
+      ]
+    },
+    "stm":{
+      "styles":[
+        {
+          "id":"LAYOUT_DEFAULT",
+          "lb":"Layout Default",
+          "pt":"DEFAULT"
+        }
+      ]
+    }
+  },
+  "portletConfigs":[
+    {
+      "portletBuilderId":"amidesktop",
+      "portletConfig":{
+        "amiPanelId":"@DESKTOP",
+        "amiStyle":{
+          "pt":"LAYOUT_DEFAULT"
+        },
+        "windows":[
+        ]
+      }
+    }
+  ]
+}
